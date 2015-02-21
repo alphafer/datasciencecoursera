@@ -1,1 +1,3 @@
-## This is a markdown file
+# datasciencecoursera
+Repo for the Data Science Certification in Coursera.org
+
